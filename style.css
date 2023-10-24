@@ -1,0 +1,35 @@
+*{
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+
+}
+.pemandangan{
+    background-image:url(gambar1.jpg);
+    background-size:cover ;
+  }
+  li .navbar{
+    padding: 10px;
+  }
+  h1{
+    margin: 50px;
+  }
+  .navbar{
+   margin: 20px;
+  }
+
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Poppins';font-size: 15px;
+}
+
+
+a{
+    color: white;
+    text-decoration: none;
+}
+.tebal{
+    font-weight:bolder;
+}
+ 
